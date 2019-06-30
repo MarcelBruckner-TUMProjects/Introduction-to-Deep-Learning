@@ -10,7 +10,16 @@ The course was offered by the [Dynamic Vision and Learning Group](https://dvl.in
 
 ### Introduction
 
+- Introduction to IPython and Jupyter notebooks
+- Interaction with external python code
+- Some random hands on examples
+
 ### Data Preparation
+
+- Some tasks on data handling and preparation
+- Data loading and visualization on the cifar 10 dataset
+- Splitting into training, validation and test sets
+- Mean image subtraction
 
 ***
 
