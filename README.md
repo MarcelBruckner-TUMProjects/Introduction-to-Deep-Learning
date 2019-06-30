@@ -4,11 +4,15 @@ This repository holds my solutions for the [Introduction to Deep Learning](https
 
 The course was offered by the [Dynamic Vision and Learning Group](https://dvl.in.tum.de/) at [Technische Universität München (TUM)](https://www.tum.de/).
 
+***
+
 ## Exercise 0
 
 ### Introduction
 
 ### Data Preparation
+
+***
 
 ## Exercise 1
 
@@ -17,6 +21,8 @@ The course was offered by the [Dynamic Vision and Learning Group](https://dvl.in
 ### Two layer net
 
 ### Features
+
+***
 
 ## Exercise 2
 
@@ -30,6 +36,8 @@ The course was offered by the [Dynamic Vision and Learning Group](https://dvl.in
 
 ### House Prices - Data Analysis
 
+***
+
 ## PyTorch Intro and CNN
 
 ### CNN Layers
@@ -37,4 +45,3 @@ The course was offered by the [Dynamic Vision and Learning Group](https://dvl.in
 ### PyTorch Introduction
 
 ### Classification CNN
-
