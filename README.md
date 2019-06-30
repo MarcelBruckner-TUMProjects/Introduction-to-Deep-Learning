@@ -91,7 +91,7 @@ Highest achieved score: 53.89% correct classified classes (Rank 31 / 391)
 
 ### Classification CNN
 - Implementation of a convolutional neural network using PyTorch
-- `conv - relu - max pool - fc - dropout - relu - fc`
+- Network architecture: `conv - relu - max pool - fc - dropout - relu - fc`
 - Implementation of a solver class to run the update steps on the model
 - Training of the network
 - Visualization of the learned filters and the loss and accuracy history
