@@ -1,0 +1,7 @@
+Learning rate: 0.1,	 Regularization strength: 1e-09, 	 Iterations: 5000 
+Learning rate: 0.1,	 Regularization strength: 1e-09, 	 Iterations: 10000 
+Learning rate: 0.1,	 Regularization strength: 2e-09, 	 Iterations: 10000 
+Learning rate: 0.1,	 Regularization strength: 2e-08, 	 Iterations: 10000 
+Learning rate: 0.13,	 Regularization strength: 2e-09, 	 Iterations: 10000 
+Learning rate: 0.17999999999999997,	 Regularization strength: 1e-08, 	 Iterations: 5000 
+Learning rate: 0.19999999999999996,	 Regularization strength: 1.9e-08, 	 Iterations: 10000 
